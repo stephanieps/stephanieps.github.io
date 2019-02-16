@@ -1,0 +1,35 @@
+<html>
+<head>
+	<title>Estilos de Texto</title>
+</head>
+<body>
+		<h1>MATRIZ DE ESTILOS DE TEXTO</h1>
+		<table border="1"> 
+			<tr>
+				<td></td>
+				<td><b>Negritas</b></td>
+				<td><b>Cursivas</b></td>
+				<td><b>Subrayado</b></td>
+				<td><b>Tachado</b></td>
+				<td><b>Resaltado</b></td>
+				<td><b>Codigo</b></td>
+				<td><b>Pequeñas</b></td>
+				<td><b>Subindices</b></td>
+				<td><b>Superindices</b></td>
+			</tr>
+			<tr>
+				<td><b>Negritas</b></td>
+				<td><b>Texto</b></td>
+				<td><b><i>Texto</i></b></td>
+				<td><b><u>Texto</u></b></td>
+				<td><b><s>Texto</s></b></td>
+				<td><b><mark>Texto</mark></b></td>
+				<td><b><code>Texto</code></b></td>
+				<td><b><small>Texto</small></b></td>
+				<td><b><sub>Texto</sub></b></td>
+				<td><b><sup>Texto</sup></b></td>
+			</tr>
+		
+	</table>
+</body>
+</html>
