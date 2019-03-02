@@ -180,6 +180,7 @@
 	padding-bottom: 15px;
 	margin-bottom: 18px;
 	position: relative;
+	border-bottom: 1px solid #eeeeee;
 }
 
 .row h4 {
