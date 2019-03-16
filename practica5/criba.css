@@ -1,0 +1,39 @@
+
+.izquierda{
+    display: inline-block;
+    width: 400px;
+}
+
+.derecha{
+    display: inline-block;
+    width: 100px;
+    vertical-align: top; 
+}
+
+button{
+    margin-bottom: 0.3em;
+    margin-right: 0.3em;
+    height: 1.9em;
+    width: 12em;
+    text-align: center;   
+}
+
+button:hover{
+    height: 2em;
+    width: 12em;
+    text-align: center;
+	margin-bottom: 0.5em;
+	margin-right: 0.5em;
+}
+
+h3{
+    margin-top: 1px;
+    margin-bottom: 8px;
+}
+
+body{
+    background-color: #fff;
+    margin: 20px;
+    padding: 20px;
+ }
+
